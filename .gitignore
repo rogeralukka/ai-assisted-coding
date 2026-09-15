@@ -1,0 +1,5 @@
+*.geojson
+__pycache__/
+*.pyc
+.env
+t1.env
