@@ -11,6 +11,7 @@
 | **Lab 6 (Assignment 6.2)** | Classes, Loops, and Conditionals | [Assignment 6.2.pdf](Assignment%206.2.pdf) |
 | **Lab 7 (Assignment 7.1)** | Error Debugging with AI | [Assignment 7.1.pdf](Assignment%207.1.pdf) |
 | **Lab 8 (Assignment 8.1)** | Test-Driven Development (TDD) with AI | [Assignment 8.1.pdf](Assignment%208.1.pdf) |
+| **Lab 9 (Assignment 9.1)** | Documentation Generation (Auto-Docs & Comments) | [Assignment 9.pdf](Assignment%209.pdf) |
 | **Lab 11 (Assignment 11)** | Data Structures with AI (Fundamental Structures) | [Assignment 11.pdf](Assignment%2011.pdf) |
 | **Lab 12 (Assignment 12)** | Algorithms with AI Assistance (Sorting, Searching & Optimization) | [Assignment 12.pdf](Assignment%2012.pdf) |
 
