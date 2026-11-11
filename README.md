@@ -16,6 +16,7 @@
 | **Lab 11 (Assignment 11)** | Data Structures with AI (Fundamental Structures) | [Assignment 11.pdf](Assignment%2011.pdf) |
 | **Lab 12 (Assignment 12)** | Algorithms with AI Assistance (Sorting, Searching & Optimization) | [Assignment 12.pdf](Assignment%2012.pdf) |
 | **Lab 13 (Assignment 13)** | Code Refactoring (Improving Legacy Code with AI Suggestions) | [Assignment 13.pdf](Assignment%2013.pdf) |
+| **Lab 14 (Assignment 14)** | Web Design Application (HTML5, CSS Grid/BEM, Accessibility & Safe Fetch) | [Assignment 14.pdf](Assignment%2014.pdf) |
 | **Lab 15 (Assignment 15.2)** | Backend API Development (FastAPI CRUD Services) | [Assignment 15.2.pdf](Assignment%2015.2.pdf) |
 | **Lab 16 (Assignment 16)** | Database Design and Queries (SQL Schema, CRUD & Optimization) | [Assignment 16.pdf](Assignment%2016.pdf) |
 | **Lab 17 (Assignment 17)** | AI for Data Processing (Pandas & scikit-learn Pipelines) | [Assignment 17.pdf](Assignment%2017.pdf) |
