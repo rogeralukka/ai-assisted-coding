@@ -20,6 +20,7 @@
 | **Lab 15 (Assignment 15.2)** | Backend API Development (FastAPI CRUD Services) | [Assignment 15.2.pdf](Assignment%2015.2.pdf) |
 | **Lab 16 (Assignment 16)** | Database Design and Queries (SQL Schema, CRUD & Optimization) | [Assignment 16.pdf](Assignment%2016.pdf) |
 | **Lab 17 (Assignment 17)** | AI for Data Processing (Pandas & scikit-learn Pipelines) | [Assignment 17.pdf](Assignment%2017.pdf) |
+| **Lab 19 (Assignment 19)** | Code Translation (Python, Java, C++, SQL, Pandas & Node.js) | [Assignment 19.pdf](Assignment%2019.pdf) |
 
 ---
 
