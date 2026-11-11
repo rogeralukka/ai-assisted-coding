@@ -22,6 +22,7 @@
 | **Lab 17 (Assignment 17)** | AI for Data Processing (Pandas & scikit-learn Pipelines) | [Assignment 17.pdf](Assignment%2017.pdf) |
 | **Lab 19 (Assignment 19)** | Code Translation (Python, Java, C++, SQL, Pandas & Node.js) | [Assignment 19.pdf](Assignment%2019.pdf) |
 | **Lab 20 (Assignment 20)** | Security Testing (Input Validation, SQLi, XSS, Uploads & Serialization) | [Assignment 20.pdf](Assignment%2020.pdf) |
+| **Lab 21 (Assignment 21)** | Collaborative AI Coding (Pair Programming, Git Branches & Debugging) | [Assignment 21.pdf](Assignment%2021.pdf) |
 
 ---
 
